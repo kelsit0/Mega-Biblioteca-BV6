@@ -46,7 +46,7 @@
 
 > Agrega aquí tu imagen o diagrama de la base de datos, por ejemplo:
 
-![Diagrama ER](public/diagrama_bd.png)
+![Diagrama ER](public/bd.png)
 
 Tablas principales:
 - `Libros` (ID, Título, Autor, GéneroID, Calificación, Prestado, etc.)
