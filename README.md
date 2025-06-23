@@ -44,7 +44,6 @@
 
 ## 🧩 Diagrama entidad-relación
 
-> Agrega aquí tu imagen o diagrama de la base de datos, por ejemplo:
 
 ![Diagrama ER](public/bd.png)
 
